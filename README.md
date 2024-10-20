@@ -1,6 +1,6 @@
-# Blog-Post-Website-Quara-
+# Blog Post Website-Quara
 
-# To-Run-This-Project-
+# To Run This Project
 
 1.Download Zip file
 2.Install the packages from package.json
